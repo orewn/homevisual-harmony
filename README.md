@@ -1,5 +1,5 @@
 # Дом «Гармония»
 
-[Мобильный 3D и визуализации](https://orewn.github.io/homevisual-harmony/?v=389e8f5efc44)
+[Мобильный 3D и визуализации](https://orewn.github.io/homevisual-harmony/?v=5a29aba4e19e)
 
 Три стиля, 42 визуализации, каталоги интерьера и двора. Просмотр без регистрации.
